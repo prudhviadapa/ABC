@@ -1,2 +1,3 @@
 <h1>Testing branch file </h1>
-line 1
+deleted line 1 
+Line 2 added
